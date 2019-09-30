@@ -1,6 +1,6 @@
-# Italian Mac like keyboard layout for Windows (alpha)
+# Italian Mac like keyboard layout for Windows (alpha) 🇮🇹🍎💻
 
-> If you're used to Mac keyboard input source but you're forced to work on a Windows machine, this may save you some frustration.
+> If you're used to italian Mac keyboard input source but you're forced to work on a Windows machine, this might save you some frustration.
 
 
 ## Mapping
